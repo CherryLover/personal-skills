@@ -1,0 +1,4 @@
+interface:
+  display_name: "Twitter Activity Checker"
+  short_description: "Use the local TwitterGet script to inspect tweets and likes"
+  default_prompt: "Use $twitter-activity-checker to query a user's recent tweets and liked tweets through the local TwitterGet pagination script, not browser automation."
